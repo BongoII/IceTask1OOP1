@@ -1,0 +1,7 @@
+C:\Users\makge\source\repos\IceTask1\bin\Debug\IceTask1.exe.config
+C:\Users\makge\source\repos\IceTask1\bin\Debug\IceTask1.exe
+C:\Users\makge\source\repos\IceTask1\bin\Debug\IceTask1.pdb
+C:\Users\makge\source\repos\IceTask1\obj\Debug\IceTask1.csproj.AssemblyReference.cache
+C:\Users\makge\source\repos\IceTask1\obj\Debug\IceTask1.csproj.CoreCompileInputs.cache
+C:\Users\makge\source\repos\IceTask1\obj\Debug\IceTask1.exe
+C:\Users\makge\source\repos\IceTask1\obj\Debug\IceTask1.pdb

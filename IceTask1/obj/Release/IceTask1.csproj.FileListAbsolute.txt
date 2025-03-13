@@ -1,0 +1,2 @@
+C:\Users\makge\source\repos\IceTask1\obj\Release\IceTask1.csproj.AssemblyReference.cache
+C:\Users\makge\source\repos\IceTask1\obj\Release\IceTask1.csproj.CoreCompileInputs.cache
